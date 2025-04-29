@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="EtJa6OUHr0EgolA6sTjD">
-    <mxGraphModel dx="1479" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,12 @@
             <mxPoint x="400" y="460" as="sourcePoint" />
             <mxPoint x="720" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX3fXn7huEDv7nmeIkgq-13" value="Comic/Manga/NFT/Decent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="98" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX3fXn7huEDv7nmeIkgq-14" value="lol land / Metaverse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="128" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
