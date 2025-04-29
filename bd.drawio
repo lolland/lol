@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZX3fXn7huEDv7nmeIkgq-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Home page&lt;/h1&gt;&lt;p&gt;1. index.html&lt;/p&gt;&lt;p&gt;2. dev.html&lt;/p&gt;&lt;p&gt;3. roadmap&lt;/p&gt;&lt;p&gt;4. aibod&lt;/p&gt;&lt;p&gt;5. etc bla bla ,..&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="460" width="180" height="200" as="geometry" />
+          <mxGeometry x="740" y="300" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZX3fXn7huEDv7nmeIkgq-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.946;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZX3fXn7huEDv7nmeIkgq-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="ZX3fXn7huEDv7nmeIkgq-14" value="lol land / Metaverse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-154" y="128" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX3fXn7huEDv7nmeIkgq-15" value="English" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
